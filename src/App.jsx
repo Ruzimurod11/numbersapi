@@ -5,6 +5,7 @@ import Info from "./pages/Info";
 
 function App() {
    return (
+      // i fork this project
       <Routes>
          <Route path="/" element={<Home />} />
          <Route path="/info" element={<Info />} />
